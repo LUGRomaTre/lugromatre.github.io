@@ -7,12 +7,12 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on LUG Roma Tre</title>
-    <link>http://lugromatre.github.io/tags/</link>
+    <link>https://lugromatre.github.io/tags/</link>
     <description>Recent content in Tags on LUG Roma Tre</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-        <atom:link href="http://lugromatre.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://lugromatre.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
